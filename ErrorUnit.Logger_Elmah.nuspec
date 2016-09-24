@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ErrorUnit.Logger_Elmah</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>johngoldinc</authors>
+    <owners>johngoldinc</owners>
+    <projectUrl>https://github.com/JohnGoldInc/ErrorUnit.Logger_Elmah</projectUrl>
+    <iconUrl>http://johngoldinc.com/img/ErrorUnitLargeLogo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This enables compatibility between ErrorUnit and Elmah</description>
+    <releaseNotes>Version 1.0</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>logging log ErrorUnit</tags>
+  </metadata>
+</package>
